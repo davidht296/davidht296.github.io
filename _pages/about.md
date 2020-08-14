@@ -1,10 +1,6 @@
-___
 layout: page
 title: "About"
 permalink: /about/
-header:
-   image: "/images/ProfilePic.jpg"
-___
 
 Although in the early stages of a new career path, my experience from a range of previous roles has help me discover that my professional value can be attributed to;
 
