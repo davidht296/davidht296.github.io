@@ -1,7 +1,8 @@
  ___
- title: "About"
- permalink: /about/
- header:
+layout: page
+title: "About"
+permalink: /about/
+header:
    image: "/images/ProfilePic.jpg"
 ___
 
@@ -19,4 +20,4 @@ Although in the early stages of a new career path, my experience from a range of
 
 - beginning each task or project with a clear vision, direction and end result in mind.
 
-I am excited to be embarking on a new chapter in my career and love making new professional acquaintances to share experiences with. Please feel free to reach out to me via Linkedin or email davidht296@gmail.com.
+I am excited to be embarking on a new chapter in my career and love making new professional acquaintances to share experiences with. Please feel free to reach out to me via Linkedin or email.
