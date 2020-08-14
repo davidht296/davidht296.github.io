@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "David Harris"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "David Harris"
+description              : "Econometrics & Data Science Portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -93,11 +93,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "David Harris"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "David is a management consultant and econometrics graduate from the University of NSW, Sydney. He is registered as an official author of Towards Data Science."
+  location         : "Sydney, Australia"
+  email            : "davidht296@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -113,10 +113,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+       url: "https://github.com/davidht296"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+       url: "https://www.linkedin.com/in/davidharristunks/"
 
 # Site Footer
 footer:
@@ -279,3 +279,12 @@ defaults:
       comments: # true
       share: true
       related: true
+
+  # _pages
+  - scope:
+     path: ""
+     type: pages
+   values:
+   layout: single
+   author_profile: true
+   
