@@ -98,26 +98,9 @@ author:
   bio              : "David is a management consultant and econometrics graduate from the University of NSW, Sydney. He is registered as an official author of Towards Data Science."
   location         : "Sydney, Australia"
   email            : "davidht296@gmail.com"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-       url: "https://github.com/davidht296"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-       url: "https://www.linkedin.com/in/davidharristunks/"
-
+  github           : "davidht296"
+  linkedin         : "davidharristunks"
+  
 # Site Footer
 footer:
   links:
@@ -264,26 +247,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-
-# Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
-
-  # _pages
-  - scope:
-     path: ""
-     type: pages
-   values:
-   layout: single
-   author_profile: true
