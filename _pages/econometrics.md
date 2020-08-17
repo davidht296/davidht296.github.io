@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Articles on Econometric Methods and R Code"
-permalink: /collection-archive/
+permalink: /econometrics/
 author_profile: true
 ---
 
