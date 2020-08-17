@@ -4,7 +4,7 @@ title: "About"
 author_profile: true
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 layout: single
-last_modified_at: 2020-05-01T10:15:22-04:00
+last_modified_at: 2020-08-18
 ---
 
 Although in the early stages of a new career path, my experience from a range of previous roles has help me discover that my professional value can be attributed to;
