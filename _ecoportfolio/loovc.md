@@ -1,9 +1,6 @@
 ---
 title: "Comparing Dependent Variable Transformations by Leave-one-out Cross-Validation"
 excerpt: "Optimising the predictive power of linear regression models by transforming the dependent variable and utilising cross-validation."
-header:
-  image: /assets/images/unsplash-gallery-image-1.jpg
-  teaser: assets/images/unsplash-gallery-image-1-th.jpg
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
