@@ -1,8 +1,8 @@
 ---
 title: Articles on Econometric Methods and R Code
 layout: collection
-permalink: /ecoportfolio/
-collection: ecoportfolio
+permalink: /portfolio/
+collection: portfolio
 entries_layout: grid
 classes: wide
 ---
