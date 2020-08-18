@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About"
 layout: single
-clases: wide
+classes: wide
 author_profile: true
 last_modified_at: 2020-08-18
 ---
