@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "David Harris"
 title_separator          : "-"
-subtitle                 : "Econometric Analytics" # site tagline that appears below site title in masthead
+subtitle                 : "Econometric Modelling & Data Analytics" # site tagline that appears below site title in masthead
 name                     : "David Harris"
 description              : "Econometrics, data analytics and R coding portfolio."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
