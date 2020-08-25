@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: "About David"
 layout: single
 classes: wide
 author_profile: true
