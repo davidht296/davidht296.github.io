@@ -4,8 +4,6 @@ main:
     url: /about/
   - title: "Econometrics"
     url: /econometrics/
-  - title: "Finance"
-    url: /finance/
   - title: "COVID-19"
     url: /covid-19/
 
