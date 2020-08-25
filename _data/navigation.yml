@@ -4,8 +4,11 @@ main:
     url: /about/
   - title: "Econometrics"
     url: /econometrics/
-  - title: "Collections"
-    url: /collection-archive/
+  - title: "Finance"
+    url: /finance/
+  - title: "COVID-19"
+    url: /covid-19/
+
 
 
 # documentation links
