@@ -261,9 +261,7 @@ defaults:
       comments: # true
       share: true
       related: true
-      
-# Defaults
-defaults:
+
   # _covidposts
   - scope:
       path: ""
