@@ -248,13 +248,6 @@ compress_html:
   ignore:
     envs: development
     
-    
-collections:
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-
-
 # Defaults
 defaults:
   # _posts
@@ -269,14 +262,16 @@ defaults:
       share: true
       related: true
       
+# Defaults
 defaults:
-  # _portfolio
+  # _covidposts
   - scope:
       path: ""
-      type: portfolio
+      type: covid-posts
     values:
       layout: single
       author_profile: true
       read_time: true
+      comments: # true
       share: true
       related: true
