@@ -267,7 +267,7 @@ defaults:
   # _covidposts
   - scope:
       path: ""
-      type: covid-posts
+      type: covidposts
     values:
       layout: single
       author_profile: true
