@@ -7,7 +7,7 @@ author_profile: true
 last_modified_at: 2020-08-18
 ---
 
-After discovering a passion for economics and finance I have recently graduated from the University of New South Wales, attaining a Bachelor of Economics with Distinction. Having majored in econometrics and financial economics, I have created this website as a portfolio of my economtric and data analytics work as I continue developing my skillsin the use of analytic tools such as R. 
+After discovering a passion for economics and finance I have recently graduated from the University of New South Wales, attaining a Bachelor of Economics with Distinction. Having majored in econometrics and financial economics, I have created this website to exhibit my portfolio of econometric and data analytic projects as I continue developing my skills in the use of analytic tools, such as R. 
 
 I am highly motivated to establish myself as a professional economist, providing high quality advice on the financial and economic issues facing government agencies, businesses and citizens across Australia.
 
