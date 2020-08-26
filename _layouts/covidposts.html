@@ -5,8 +5,8 @@ layout: archive
 {{ content }}
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
-{% assign postsByYear = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'covidpost', 'post.date | date: "%Y"' %}
-{% for year in postsByYear %}
+{% assign covidpostsByYear = site.covidposts | where_exp: "item", "item.hidden != true" | group_by_exp: 'covidpost', 'covidpost.date | date: "%Y"' %}
+{% for year in covidpostsByYear %}
   <section id="{{ year.name }}" class="taxonomy__section">
     <h2 class="archive__subtitle">{{ year.name }}</h2>
     <div class="entries-{{ entries_layout }}">
