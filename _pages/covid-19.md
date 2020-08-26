@@ -28,7 +28,7 @@ Further, due to the use of the log-scale across the x-axis, these graphs are not
 
 **First Wave Graph (Animation)**
 ![alt]({{ site.url }}{{site.baseurl}}/images/covid/wave1-ani.gif)
-![til](./images/covid/wave1-ani.gif)
+![til]({{ site.url }}{{site.baseurl}}/images/covid/wave1-ani.gif)
 
 **First Wave Graph (Static)**
 ![alt]({{ site.url }}{{site.baseurl}}/images/loocv/loocv4.png)
