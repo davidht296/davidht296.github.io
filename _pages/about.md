@@ -4,7 +4,7 @@ title: "About David"
 layout: single
 classes: wide
 author_profile: true
-last_modified_at: 2020-08-18
+last_modified_at: 2020-08-26
 ---
 
 After discovering a passion for economics and finance I have recently graduated from the University of New South Wales, attaining a Bachelor of Economics with Distinction. Having majored in econometrics and financial economics, I have created this website to exhibit my portfolio of econometric and data analytic projects as I continue developing my skills in the use of analytic tools, such as R. 
