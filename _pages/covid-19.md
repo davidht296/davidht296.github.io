@@ -27,7 +27,7 @@ The graph is designed to highlight deviations of new case numbers from a rate of
 Further, due to the use of the log-scale across the x-axis, these graphs are not suited for identifying a resurgence of cases. A linear-scale on the x-axis would likely be more appropriate for this purpose.
 
 **First Wave Graph (Animation)**
-![alt]({{ site.url }}{{site.baseurl}}/images/loocv/loocv4.png)
+![alt]({{ site.url }}{{site.baseurl}}/images/covid/wave1-ani.gif)
 
 **First Wave Graph (Static)**
 ![alt]({{ site.url }}{{site.baseurl}}/images/loocv/loocv4.png)
