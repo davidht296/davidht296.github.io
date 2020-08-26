@@ -30,4 +30,4 @@ Further, due to the use of the log-scale across the x-axis, these graphs are not
 **First Wave Graph (Static)**
 ![alt]({{ site.url }}{{site.baseurl}}/images/covid/Wave1-plot.png)
 
-*These graphs have been developed using R Studio and follow the methodology of Aatish Bhatia and the team at MinutePhysics.* [Link](https://www.youtube.com/watch?v=54XLXg4fYsc&t=121s)
+*These graphs have been developed using R Studio. The methodology follows that of Aatish Bhatia and the team at MinutePhysics.* [Link](https://www.youtube.com/watch?v=54XLXg4fYsc&t=121s)
