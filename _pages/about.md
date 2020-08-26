@@ -2,7 +2,6 @@
 permalink: /about/
 title: "About David"
 layout: single
-classes: wide
 author_profile: true
 last_modified_at: 2020-08-18
 ---
